@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 86,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 86,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 100,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 100,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 107,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 107,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 93,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 93,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 121,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 121,
+                        "endOffset": 562
+                    }
+                }
+            }
+        ]
+    }
+]

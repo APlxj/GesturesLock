@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alp_42447968_selector_ic_action_lockpattern_light.xml",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable\\alp_42447968_selector_ic_action_lockpattern_light.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alp_42447968_selector_ic_action_lockpattern_dark.xml",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable\\alp_42447968_selector_ic_action_lockpattern_dark.xml"
+    }
+]

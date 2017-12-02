@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_light.png",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_light.png"
+    },
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_dark.png",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_dark.png"
+    },
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_light_disabled.png",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_light_disabled.png"
+    },
+    {
+        "merged": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_dark_disabled.png",
+        "source": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\alp_42447968_ic_action_lockpattern_dark_disabled.png"
+    }
+]

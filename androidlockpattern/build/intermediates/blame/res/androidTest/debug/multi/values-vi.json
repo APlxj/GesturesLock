@@ -1,0 +1,351 @@
+[
+    {
+        "outputFile": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-vi\\values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 14,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 14,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 61,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 61,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 62,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 62,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 69,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 69,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 58,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 58,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 58,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 58,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 90,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 90,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 90,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 90,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 95,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 95,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 89,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 89,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 96,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 884,
+                        "endColumn": 96,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 80,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 80,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 92,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 92,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endColumn": 83,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 83,
+                        "endOffset": 1234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 99,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 99,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 91,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 91,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 75,
+                    "endOffset": 1502
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 75,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1507,
+                    "endColumn": 90,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "F:\\GitHub\\GesturesLock\\androidlockpattern\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1507,
+                        "endColumn": 90,
+                        "endOffset": 1593
+                    }
+                }
+            }
+        ]
+    }
+]

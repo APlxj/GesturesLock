@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="684468409913693"
+    token="-2147161195529299368"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="27" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="F:\GitHub\GesturesLock\lockPatternViewTest\build\outputs\apk\lockPatternViewTest-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="684468409913693"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\GitHub\GesturesLock\lockPatternViewTest\build\outputs\apk\lockPatternViewTest-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
